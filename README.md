@@ -37,6 +37,7 @@ Full project report explaining:
 
 * Theoretical background
 * Methodology
+* Enviroment and project details
 * Algorithmic design choices
 * Experimental evaluation
 
