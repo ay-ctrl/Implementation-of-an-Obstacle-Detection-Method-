@@ -64,5 +64,10 @@ Potential improvements include:
 * Optimizing the pipeline for real-time performance
 * Integrating into a full robotic navigation framework
 
+## Unity Environment
+
 ![System Architecture](images/ssunity.png)
+
+## Stereo Images
+
 ![System Architecture](images/image.webp)
