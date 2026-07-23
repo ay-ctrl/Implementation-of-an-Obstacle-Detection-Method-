@@ -63,3 +63,6 @@ Potential improvements include:
 * Replacing rule-based thresholds with learning-based methods
 * Optimizing the pipeline for real-time performance
 * Integrating into a full robotic navigation framework
+
+![System Architecture](images/ssunity.png)
+![System Architecture](images/image.webp)
