@@ -71,3 +71,7 @@ Potential improvements include:
 ## Stereo Images
 
 ![System Architecture](images/image.webp)
+
+## Example Final Obstacle Map
+
+![System Architecture](sample_out/final_obstacle_map.png)
